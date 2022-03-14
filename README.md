@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Asutosh Sahoo</h1>
-<h3 align="center">I am a full stack developer specialized in MERN stack technologies. 👨‍💻 A highly dedicated , self motivated person and who possess interest in computer and software technology since childhood. Currently, I have an expertise in HTML, CSS, and JavaScript. Additionally, I have expansive knowledge and experience in React js, React Redux, Node.js, Express Js, MongoDB, Git and GitHub & hands-on practice in Data Structure and Algorithms.</h3>
+<h3 align="center">I am a full stack developer specialized in MERN stack technologies. 👨‍💻 A highly dedicated , self motivated person and who possess interest in computer and software technology.. Currently, I have an expertise in HTML, CSS, and JavaScript. Additionally, I have expansive knowledge and experience in React js, React Redux, Node.js, Express Js, MongoDB, Git and GitHub & hands-on practice in Data Structure and Algorithms.</h3>
 
 <h3  align = "center"><img src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" /></h3>
 
