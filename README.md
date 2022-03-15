@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/ashutosh98sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh98sahoo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asutosh-sahoo-186164193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asutosh-sahoo-186164193/" height="30" width="40" /></a>
-<a href="https://instagram.com/ashutosh_.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_.98" height="30" width="40" /></a>
 <a href="https://medium.com/@asutosh.98.sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asutosh.98.sahoo" height="30" width="40" /></a>
 </p>
 
