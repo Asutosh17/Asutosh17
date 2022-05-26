@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [here .](https://drive.google.com/file/d/19IMLTl8fFZcMfRa4PhXdO2JQyDPJSw9m/view?usp=sharing)
 
+- 📄 Ask me about **HTML, CSS, JavaScript, React, Redux.**
+
 - ⚡ Fun fact **There are around 700 separate programming languages.**
 
 
